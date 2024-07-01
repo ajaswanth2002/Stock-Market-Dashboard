@@ -11,9 +11,34 @@ This project is a comprehensive Stock Market Dashboard built using Tableau. It v
 📉 Moving Averages and Opening Price: Visual representation of the 200-day, 50-day moving averages, and opening prices over time.
 📌 High and Low Price Indicators: Highlights the highest and lowest stock prices within the selected period.
 🔢 Total Volume Indicator: Displays the total trading volume for the selected period.
-
+📂 Data Sources
+🚏 Routes Table: Contains information about various travel routes, including route ID, origin city, destination city, and distance.
+🎫 Tickets Table: Contains details about tickets sold, including ticket ID, route ID, passenger name, and ticket price.
+💡 How to Use
+Clone the Repository:
+sh
+Copy code
+git clone https://github.com/yourusername/stock-market-dashboard.git
+Open in Tableau:
+Open Tableau Desktop.
+Load the .twbx file into Tableau.
+Interact with the Dashboard:
+Use the date range and company selectors to filter data.
+Hover over different charts and tables to view detailed insights.
 🖼️ Screenshots
 
 🛠️ Technologies Used
 Tableau: For creating interactive visualizations and reports.
 Excel/CSV: Data sources for the stock market information.
+🤝 Contributing
+If you would like to contribute to this project, please follow these steps:
+
+Fork the repository.
+Create a new branch (git checkout -b feature-branch).
+Make your changes.
+Commit your changes (git commit -m 'Add some feature').
+Push to the branch (git push origin feature-branch).
+Create a new Pull Request.
+📜 License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
